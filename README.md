@@ -1,6 +1,6 @@
-# Tan Nguyen's Portfolio
+# Michael Jordan's Portfolio
 
-[Tan Nguyen's Portfolio](https://tannguyen1024.github.io/) utilizes the [Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/) Bootstrap template from [Start Bootstrap](http://startbootstrap.com/).
+[Michael Jordan's Portfolio](https://jordanm3.github.io/.github.io/) utilizes the [Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/) Bootstrap template from [Start Bootstrap](http://startbootstrap.com/).
 
 ## About
 
